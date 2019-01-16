@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact name="Test">
+    <output-path>$PROJECT_DIR$/out/artifacts/Test</output-path>
+    <root id="root">
+      <element id="archive" name="Test" />
+      <element id="module-output" name="MonthlyCrate" />
+    </root>
+  </artifact>
+</component>

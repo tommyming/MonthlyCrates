@@ -1,0 +1,39 @@
+#How many ticks between each time the gui is "updated"
+updateSpeed: 3
+
+#How many times the item being rolled will change. An item will roll for n ticks where n is updateSpeed * itemRollCycles
+itemRollCycles: 10
+
+#What color glass is the background
+backgroundPaneColor: 9
+
+#Configure what colors the spinning panes can be
+spinningPaneColors:
+  - 0
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+
+#Configure what color panes will slide across the gui before the final item is revealed
+slidingPaneColors:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+
+#What colors will make up the final background. (After the final item is revealed)
+finalBackgroundColor:
+  - 1
+  - 4

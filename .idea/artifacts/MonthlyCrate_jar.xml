@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="MonthlyCrate:jar">
+    <output-path>$PROJECT_DIR$/..</output-path>
+    <root id="root">
+      <element id="module-output" name="MonthlyCrate" />
+      <element id="library" level="project" name="spigot-1.12.2" />
+      <element id="artifact" artifact-name="Test" />
+    </root>
+  </artifact>
+</component>

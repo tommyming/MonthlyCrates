@@ -1,0 +1,11 @@
+main: Fire.MonthlyCrate.Main
+name: MonthlyCrate
+version: 1.0
+author: FireFlower
+description: A monthly rewards crate plugin
+commands:
+  MysterCrate:
+    description: Reloads the config
+    usage: MortalShortener
+    permission: MortalShortener.reload
+    permission-message: You do not have permission MortalShortener.reload
